@@ -3,14 +3,14 @@
 ## `hello`
 
 ## [ZERO工作室官网!](/zero/)
-<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=JV9JRhQVFRRlQ0pdSERMSQtGSkg" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
+<a target="_blank" href="649536862@qq.com" style="text-decoration:none;"><img src="qqmail.png"/></a>
 <head>
 <style type="text/css">
-   @import url("https://zlc1003.github.io/logo.css");
+   @import url("logo.css");
 </style>
 </head>
 
-## [<img xmlns:html="http://www.w3.org/1999/xhtml" src="https://zlc1003.github.io/apple.svg" data-l10n-name="a" class="a">](apple.svg)
+## [在网页中加入<img xmlns:html="http://www.w3.org/1999/xhtml" src="https://zlc1003.github.io/apple.svg" data-l10n-name="a" class="a">等logo的方法](/zero/b/html/logo.md)
 
 ## [nonono](a.html)
 
