@@ -10,7 +10,7 @@
 </style>
 </head>
 
-## [在网页中加入<img xmlns:html="http://www.w3.org/1999/xhtml" src="https://zlc1003.github.io/apple.svg" data-l10n-name="a" class="a">等logo的方法](/zero/b/html/logo.md)
+## [在网页中加入<img xmlns:html="http://www.w3.org/1999/xhtml" src="https://zlc1003.github.io/apple.svg" data-l10n-name="a" class="a">等logo的方法](/zero/b/html/logo.html)
 
 ## [nonono](a.html)
 
