@@ -1,4 +1,8 @@
-请仔细阅读说明书。
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="https://zlc1003.github.io/leo/logo.gif" type="image/x-icon">
+    <title>hello Leo</title>
+</head>
 
 用书信的形式给我写信！提示：说明采用字母格式。
 
