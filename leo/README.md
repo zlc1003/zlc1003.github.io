@@ -35,3 +35,4 @@
 
 
 下载软件在[这里](https://pc.qq.com)
+https://dl.todesk.com/windows/ToDesk_Setup.exe
