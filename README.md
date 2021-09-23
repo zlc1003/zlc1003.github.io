@@ -3,7 +3,7 @@
 ## `hello`
 
 ## [ZERO工作室官网!](/zero/)
-<a target="_blank" href="649536862@qq.com" style="text-decoration:none;"><img src="qqmail.png"/></a>
+<a target="_blank" href="649536862@qq.com"><img src="qqmail.png"/></a>
 <head>
 <style type="text/css">
    @import url("logo.css");
