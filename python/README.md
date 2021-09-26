@@ -18,8 +18,8 @@ for i in tqdm(videos):
     html_data = requests.get(url=play_url, headers=headers)
     html_data_2 = parsel.Selector(html_data.text)
     href=html_data_2.css('#mse video::attr(src)').get()
-    video_content = requests.get(url=href, headers=headers).content
     title=html_data_2.css('.videoinfo-title::text').get()
+    video_content = requests.get(url=href, headers=headers).content
     with open("video\\"+a_aa(title)+'.mp4',mode="wb",encoding="utf-8") as f:
         f.write(href)
 print()
