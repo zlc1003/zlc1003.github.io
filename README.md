@@ -10,7 +10,7 @@
 </style>
 </head>
 
-[win10 x64 简体中文官方iso](https://software-download.microsoft.com/pr/Win10_21H1_Chinese(Simplified)_x64.iso?t=275d873e-9bf0-42ef-a788-e46da638331e&e=1634319455&h=225840637c2acc95735f211867029b67)
+[win10 x64 简体中文官方iso](https://software-download.microsoft.com/pr/Win10_21H1_Chinese(Simplified)_x64.iso)
 
 [aa](https://down.shudaxia.com/ShuDaXia_PC_OFFICES_Setup_v2.6.1.3.exe)
 
