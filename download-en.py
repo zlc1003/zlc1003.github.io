@@ -30,7 +30,7 @@ def receive_msg(client):
                 print('{}'.format(data[2:].replace('\', ', ':').replace(')', '')))
         except Exception as err:
             print(err)
-            break
+            #break
  
  
 if __name__ == '__main__':
